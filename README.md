@@ -18,4 +18,6 @@ write better stories
 
 I think I would make the dropdown "About" a little big bigger
 
-I don't know if the dropdowns are showing on hover or it's like that just in Adobe, but if so - I think it can be a little annoying for the user.
+I don't know if the dropdowns are showing on hover or if it's like that just in Adobe, but if so - I think it can be a little annoying for the user.
+
+Increase the contrast of Support and About buttons
