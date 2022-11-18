@@ -1,0 +1,10 @@
+version: "3"
+services:
+  storybook:
+    image: node:18
+    volumes:
+      - .:/usr/src/app
+    working_dir: /usr/src/app
+    command: yarn run storybook
+    ports:
+      - 6006:6006
